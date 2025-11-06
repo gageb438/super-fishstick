@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dest",
+        "target": "es2024",
+
+        "strict": true,
+    }
+}
